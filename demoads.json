@@ -1,0 +1,63 @@
+{
+  "app_package": "ads.demo.fb.google",
+  "is_app_live": true,
+  "app_redirect_link": "com.spotify.lite",
+  "btn_color_flag": false,
+  "btn_color": "#370B4A",
+  "is_timer": false,
+  "ads_click": 5,
+  "ads_time": 10,
+  "ads_preload": false,
+  "native_ads_preload": true,
+  "ads_onback": true,
+  "show_ad_first_page": false,
+  "is_apps_ad_show": true,
+  "show_native_bottom": true,
+  "show_splash_interstitial": false,
+  "ads_priority": "Google",
+  "privacy_url": "",
+  "is_ad_on": true,
+  "is_app_open_ad_show": true,
+  "is_native_loader": false,
+  "loader_time": 0,
+  "Admob": {
+    "admob_app_open": "ca-app-pub-3940256099942544/3419835294",
+    "admob_banner": "ca-app-pub-3940256099942544/9214589741",
+    "admob_interstitial": "ca-app-pub-3940256099942544/1033173712",
+    "admob_native": "ca-app-pub-3940256099942544/2247696110",
+    "admob_native_banner": "ca-app-pub-3940256099942544/2247696110"
+  },
+  "Adx": {
+    "adx_app_open": "/6499/example/app-open",
+    "adx_banner": "/6499/example/banner",
+    "adx_interstitial": "xx/6499/example/interstitial",
+    "adx_native": "/6499/example/native",
+    "adx_native_banner": "/6499/example/native"
+  },
+  "Facebook": {
+    "facebook_banner": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_interstitial": "xxIMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+    "facebook_native_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID"
+  },
+  "Applovin": {
+    "app_lovin_banner": "",
+    "app_lovin_interstitial": "",
+    "app_lovin_native": "",
+    "app_lovin_native_banner": ""
+  },
+  "Apps": {
+    "apps_banner": "",
+    "apps_body": "",
+    "apps_headline": "",
+    "apps_icon": "",
+    "apps_link": ""
+  },
+  "server": {
+    "server_flag": true,
+    "server_base_url": "",
+    "server_carrierid": "",
+    "server_country_list": "",
+    "server_country": ""
+  }
+}
